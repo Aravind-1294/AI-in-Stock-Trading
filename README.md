@@ -1,7 +1,5 @@
 # Pattern Recognition AI for Candlestick Patterns and Stock Prediction
 
-![Pattern Recognition AI](pattern-recognition-ai.png)
-
 This GitHub repository contains an AI model that performs pattern recognition for 8 different candlestick patterns using the VGG-16 architecture. Additionally, it provides stock price prediction using a stacked LSTM model trained on Yahoo Finance data, and stock recommendations based on firm data and news using basic ML models.
 
 ## Table of Contents
