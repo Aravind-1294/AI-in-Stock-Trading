@@ -47,8 +47,8 @@ The following technologies are utilized in this project:
 
 ## Results 
 Here are some of the results : 
-![Pattern Recognition AI]('Bajaj finance prediction.png')
-![Pattern Recognition AI]('Bajaj finance original.png')
+![Pattern Recognition AI]('Bajajfinanceprediction.png')
+![Pattern Recognition AI]('Bajajfinanceoriginal.png')
 
 
 ## Contributing
