@@ -45,8 +45,10 @@ The following technologies are utilized in this project:
 - Yahoo Finance API: To fetch historical stock data and news.
 - Scikit-learn: For implementing basic ML models in the stock recommendation system.
 
-##Results 
-Here are some of the results :
+## Results 
+Here are some of the results : 
+![Pattern Recognition AI]('Bajaj finance prediction.png')
+![Pattern Recognition AI]('Bajaj finance original.png')
 
 
 ## Contributing
